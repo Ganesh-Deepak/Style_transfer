@@ -11,7 +11,6 @@ Before running the notebook, ensure that you have the following dependencies ins
 + PIL (Pillow)
   
 You can install the required dependencies using the following commands:
-You can install the required dependencies using the following commands:
 
 ```bash
 pip install torch torchvision
