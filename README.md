@@ -9,4 +9,5 @@ Before running the notebook, ensure that you have the following dependencies ins
 + PyTorch
 + Matplotlib
 + PIL (Pillow)
+  
 You can install the required dependencies using the following commands:
