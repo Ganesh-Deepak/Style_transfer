@@ -1,4 +1,4 @@
-# Style_transfer
+# Style Transfer
 This repository contains a Jupyter Notebook for Neural Style Transfer using a VGG19-based model. The following instructions guide you through setting up and running the notebook.
 
 Prerequisites
